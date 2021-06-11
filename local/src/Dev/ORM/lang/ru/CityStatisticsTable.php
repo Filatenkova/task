@@ -1,0 +1,6 @@
+<?php
+$MESS["CITY_STATISTICS_ID_TITLE"] = "ID";
+$MESS["CITY_STATISTICS_NAME_TITLE"] = "Название города";
+$MESS["CITY_STATISTICS_REVENUE_TITLE"] = "Доходы общие";
+$MESS["CITY_STATISTICS_EXPENSES_TITLE"] = "Расходы общие";
+$MESS["CITY_STATISTICS_COUNTS_RESIDENTS_TITLE"] = "Количество жителей";
